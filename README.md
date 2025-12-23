@@ -18,7 +18,7 @@ Plaintext
 🚀 Como Executar
 Certifique-se de ter o Neo4j Desktop ou Neo4j AuraDB instalado.
 
-Copie o conteúdo do arquivo setup_banco.cypher deste repositório.
+Copie o conteúdo do arquivo filmes.cypher deste repositório.
 
 Cole no terminal do Neo4j Browser e execute.
 ### 📊 Visualização do Projeto
