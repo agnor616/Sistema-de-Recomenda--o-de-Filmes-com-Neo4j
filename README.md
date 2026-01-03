@@ -3,7 +3,7 @@
 ## 🧠 Modelo Conceitual
 O modelo foca na conexão entre usuários e conteúdos, enriquecido com informações de elenco, direção e gênero para permitir recomendações precisas.
 
-Plaintext
+esboço da modelagem do grafo
 
           (User)
              │
